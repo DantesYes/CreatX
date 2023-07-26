@@ -1,4 +1,4 @@
-# CreatX
+# CreatX(landing page)
 -html
 
 -css
